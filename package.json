@@ -22,7 +22,7 @@
     "@nuxt/devtools": "^1.0.8",
     "@nuxtjs/color-mode": "^3.3.2",
     "@pinia/nuxt": "^0.5.1",
-    "@unocss/eslint-config": "^0.58.5",
+    "@unocss/eslint-config": "^0.65.0",
     "@unocss/nuxt": "^0.59.0",
     "@vite-pwa/nuxt": "^0.6.0",
     "@vueuse/nuxt": "^10.9.0",
